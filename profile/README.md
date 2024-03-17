@@ -1,5 +1,4 @@
-## Hello Lightning Robot 👋
-
-[Lightning Robot](https://lightningrobot.github.io/) 是一个现代、跨平台、可扩展的 Python 聊天机器人框架，它基于 Python 研发，能够为你的需求提供便捷灵活的支持。
-此外，Lightning Robot 脚手架能够帮助开发者和用户更快速地上手，省去了繁琐的机器人搭建细节，让开发者更加专注于业务逻辑的编写，用户更加专注于使用。
-LightningRobot 拥有丰富的社区资源，欢迎开发者使用或者参与 LightningRobot 项目。[点击前往 LightningRobot 文档 ☞](https://lightningrobot.github.io/)
+> [!WARNING]
+> 本机器人框架正在重写。
+## 发生了什么？
+我们在编写与其它框架对接的插件时，发现本机器人框架的组成部分定义不清，发送消息全部为主动，以及许多API未预留等问题，于是，我们正在重写。目前，您安装到的闪电机器人框架仍是本次仓库的内容，在全部内容更新完毕后，本仓库将改为存档状态，如要体验新版，请在安装时将lightningrobot改为lightningrobot-next。
